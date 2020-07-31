@@ -40,6 +40,6 @@ GITLAB_BASE_URL="https://my-gitlabs-cooler-than-yours.mycompany.com" ./get-devop
 
 - [x] commits
 - [x] deployments
-- [] set custom timespan
-- [] make crawling parallel
-- [] better output formatting
+- [ ] set custom timespan
+- [ ] make crawling parallel
+- [ ] better output formatting
